@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": ".leetcode",
+			"path": "../../../../../.leetcode"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"*.tcc": "cpp",
+			"list": "cpp",
+			"array": "cpp"
+		}
+	}
+}
