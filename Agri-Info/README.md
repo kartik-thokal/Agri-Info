@@ -1,2 +1,2 @@
 Agri-Info
-a website for Indian farmer
+A website for Indian farmer
